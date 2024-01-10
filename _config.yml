@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Zachary Hornberger"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "NYC Photo.png"
+  bio              : #"Your biography for the left-hand sidebar"
   location         : "Champaign, IL"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

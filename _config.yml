@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zachary Hornberger / Personal Webpage"
+title                    : "Zachary Hornberger / Life & Other Musings"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"

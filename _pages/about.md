@@ -18,7 +18,7 @@ Education
 ======
 PhD in Industrial Engineering (Expected 2025), University of Illinois in Champaign-Urbana
 
-Master's of Science in Operations Research (2019), Air Force Institute of Techonology
+Master's of Science in Operations Research (2019), Air Force Institute of Technology
 
 Master's of Education in STEM Education (2016), California University of Pennsylvania
 

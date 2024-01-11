@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/MSOC
 venue: "Air Force Manpower Analysis Agency"
-date: Summer 2021 - Spring 2022
+date: 2021
 location: "San Antonio, TX"
 ---
 

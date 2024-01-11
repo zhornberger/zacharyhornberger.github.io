@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 permalink: /teaching/MATH103
 venue: "University of Maryland Global Campus"
-date: August 2019 - March 2020
+date: 2019
 location: "Incirlik Air Base, Turkey"
 ---
 

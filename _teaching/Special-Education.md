@@ -4,7 +4,7 @@ collection: teaching
 type: "Elementary School"
 permalink: /teaching/special-education
 venue: "Woodmen-Roberts Elementary School"
-date: October 2013 - March 2014
+date: 2013
 location: "Colorado Springs, CO"
 ---
 
